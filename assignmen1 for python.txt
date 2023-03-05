@@ -1,0 +1,13 @@
+P = 5000
+
+T = 5
+
+R = 3
+
+
+
+SI=(P*T*R)/100
+
+
+
+print('The Simple Interest is',SI)
